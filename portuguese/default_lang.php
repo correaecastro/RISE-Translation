@@ -106,7 +106,7 @@ $lang["admin_user_has_all_power"] = "Usuários Admin tem o poder de total acesso
 $lang["no_posts_to_show"] = "Não há posts para mostrar";
 
 /* team_member */
-$lang["add_team_member"] = "Add membro da equipe";
+$lang["add_team_member"] = "Adicionar membro da equipe";
 $lang["edit_team_member"] = "Editar membro da equipe";
 $lang["delete_team_member"] = "Excluir membro da equipe";
 $lang["team_member"] = "Membro da equipe";
@@ -144,7 +144,7 @@ $lang["view_details"] = "Ver detalhes";
 $lang["invite_someone_to_join_as_a_team_member"] = "Convidar alguém para se juntar como um membro da equipe.";
 
 /* team */
-$lang["add_team"] = "Add Equipe";
+$lang["add_team"] = "Adicionar Equipe";
 $lang["edit_team"] = "Editar Equipe";
 $lang["delete_teamn"] = "Excluir Equipe";
 $lang["team"] = "Equipe";
@@ -209,7 +209,7 @@ $lang["start_date_to_end_date_format"] = "%s até %s";
 $lang["my_leave"] = "Minhas Licenças";
 
 /* events */
-$lang["add_event"] = "Add evento";
+$lang["add_event"] = "Adicionar evento";
 $lang["edit_event"] = "Editar evento";
 $lang["delete_event"] = "Excluir evento";
 $lang["events"] = "Eventos";
@@ -307,7 +307,7 @@ $lang["me"] = "Eu";
 $lang["select_a_message"] = "Selecione uma mensagem para ler";
 
 /* clients */
-$lang["add_client"] = "Add cliente";
+$lang["add_client"] = "Adicionar cliente";
 $lang["edit_client"] = "Editar cliente";
 $lang["delete_client"] = "Deletar cliente";
 $lang["client"] = "Cliente";
@@ -315,7 +315,7 @@ $lang["clients"] = "Clientes";
 $lang["client_details"] = "Detalhes do cliente";
 $lang["due"] = "Vencido";
 
-$lang["add_contact"] = "Add contato";
+$lang["add_contact"] = "Adicionar contato";
 $lang["edit_contact"] = "Editar contato";
 $lang["delete_contact"] = "Deletar contato";
 $lang["contact"] = "Contato";
@@ -340,7 +340,7 @@ $lang["invite_an_user"] = "Convidar um usuário para %s"; // Convidar um usuári
 $lang["unit_type"] = "Tipo de unidade";
 
 /* projects */
-$lang["add_project"] = "Add projeto";
+$lang["add_project"] = "Adicionar projeto";
 $lang["edit_project"] = "Editar projeto";
 $lang["delete_project"] = "Deletar projeto";
 $lang["project"] = "Projeto";
@@ -349,7 +349,7 @@ $lang["all_projects"] = "Todos os Projetos";
 $lang["member"] = "Membro";
 $lang["overview"] = "Visão geral";
 $lang["project_members"] = "Os membros do projeto";
-$lang["add_member"] = "Add membro";
+$lang["add_member"] = "Adicionar membro";
 $lang["delete_member"] = "Deletar membro";
 $lang["start_timer"] = "Início";
 $lang["stop_timer"] = "Fim";
@@ -366,13 +366,13 @@ $lang["file_comment_reply"] = "Respostas dos comentários com arquivo";
 $lang["customer_feedback_reply"] = "Resposta dos feedback dos clientes";
 
 /* expense */
-$lang["add_category"] = "Add categoria";
+$lang["add_category"] = "Adicionar categoria";
 $lang["edit_category"] = "Editar categoria";
 $lang["delete_category"] = "Deletar categoria";
 $lang["category"] = "Categoria";
 $lang["categories"] = "Categorias";
 $lang["expense_categories"] = "Categoria de Despesa";
-$lang["add_expense"] = "Add despesa";
+$lang["add_expense"] = "Adicionar despesa";
 $lang["edit_expense"] = "Editar despesa";
 $lang["delete_expense"] = "Deletar despesa";
 $lang["expense"] = "Despesa";
@@ -381,7 +381,7 @@ $lang["date_of_expense"] = "Date da despesa";
 $lang["finance"] = "Finanças";
 
 /* notes */
-$lang["add_note"] = "Add nota";
+$lang["add_note"] = "Adicionar nota";
 $lang["edit_note"] = "Editar nota";
 $lang["delete_note"] = "Excluir nota";
 $lang["note"] = "Nota";
@@ -399,14 +399,14 @@ $lang["delete_timelog"] = "Deletar registro de horário";
 $lang["timesheet_statistics"] = "Estatísticas da Gestão de Tempo";
 
 /* milestones */
-$lang["add_milestone"] = "Add etapa";
+$lang["add_milestone"] = "Adicionar etapa";
 $lang["edit_milestone"] = "Editar etapa";
 $lang["delete_milestone"] = "Excluir etapa";
 $lang["milestone"] = "Etapa";
 $lang["milestones"] = "Etapas";
 
 /* files */
-$lang["add_files"] = "Add arquivos";
+$lang["add_files"] = "Adicionar arquivos";
 $lang["edit_file"] = "Editar arquivo";
 $lang["delete_file"] = "Excluir arquivo";
 $lang["file"] = "Arquivo";
@@ -422,7 +422,7 @@ $lang["download_files"] = "Baixar %s arquivos"; //Ex. Baixar 4 arquivos
 $lang["file_preview_is_not_available"] = "A visualização do arquivo não está disponível.";
 
 /* tasks */
-$lang["add_task"] = "Add tarefa";
+$lang["add_task"] = "Adicionar tarefa";
 $lang["edit_task"] = "Editar tarefa";
 $lang["delete_task"] = "Deletar tarefa";
 $lang["task"] = "Tarefa";
@@ -466,23 +466,23 @@ $lang["yesterday_at"] = "Ontem às";
 
 /* tickets */
 
-$lang["add_ticket"] = "Add Chamado";
+$lang["add_ticket"] = "Adicionar chamado";
 $lang["ticket"] = "Chamado";
 $lang["tickets"] = "Chamados";
-$lang["ticket_id"] = "ID do Chamado";
+$lang["ticket_id"] = "ID do chamado";
 $lang["client_replied"] = "Cliente respondeu";
 $lang["change_status"] = "Alterar estado";
 $lang["last_activity"] = "Ultima atividade";
 $lang["open_tickets"] = "Chamados abertos";
-$lang["ticket_status"] = "Status dos Chamados";
+$lang["ticket_status"] = "Status dos chamados";
 
 /* ticket types */
 
-$lang["add_ticket_type"] = "Add tipo de Chamado";
-$lang["ticket_type"] = "Tipo de Chamado";
-$lang["ticket_types"] = "Tipos de Chamados";
-$lang["edit_ticket_type"] = "Editar tipo de Chamado";
-$lang["delete_ticket_type"] = "Excluir tipo de Chamado";
+$lang["add_ticket_type"] = "Adicionar tipo de chamado";
+$lang["ticket_type"] = "Tipo de chamado";
+$lang["ticket_types"] = "Tipos de chamados";
+$lang["edit_ticket_type"] = "Editar tipo de chamado";
+$lang["delete_ticket_type"] = "Excluir tipo de chamado";
 
 /* payment methods */
 
@@ -494,28 +494,28 @@ $lang["delete_payment_method"] = "Excluir método de pagamento";
 
 /* invoices */
 
-$lang["add_invoice"] = "Add Fatura";
-$lang["edit_invoice"] = "Editar Fatura";
-$lang["delete_invoice"] = "Excluir Fatura";
+$lang["add_invoice"] = "Adicionar fatura";
+$lang["edit_invoice"] = "Editar fatura";
+$lang["delete_invoice"] = "Excluir fatura";
 $lang["invoice"] = "Fatura";
 $lang["invoices"] = "Faturas";
 $lang["bill_date"] = "Data de emissão";
 $lang["due_date"] = "Data de vencimento";
 $lang["payment_date"] = "Data de pagamento";
 $lang["bill_to"] = "Cliente";
-$lang["invoice_value"] = "Valor da Fatura";
+$lang["invoice_value"] = "Valor da fatura";
 $lang["payment_received"] = "Pagamento recebido";
 $lang["invoice_payments"] = "Pagamentos";
 $lang["draft"] = "Rascunho";
 $lang["fully_paid"] = "Pago";
-$lang["partially_paid"] = "Parcialmente Pago";
+$lang["partially_paid"] = "Parcialmente pago";
 $lang["not_paid"] = "Não pago";
 $lang["overdue"] = "Atrasado";
-$lang["invoice_items"] = "Serviços da Fatura";
-$lang["edit_invoice"] = "Editar Fatura";
-$lang["delete_invoice"] = "Excluir Fatura";
+$lang["invoice_items"] = "Serviços da fatura";
+$lang["edit_invoice"] = "Editar fatura";
+$lang["delete_invoice"] = "Excluir fatura";
 $lang["item"] = "Item";
-$lang["add_item"] = "Add item";
+$lang["add_item"] = "Adicionar item";
 $lang["create_new_item"] = "Criar novo item";
 $lang["select_or_create_new_item"] = "Escolher da lista ou criar novo item ...";
 $lang["quantity"] = "Quantidade";
@@ -555,7 +555,7 @@ $lang["signature"] = "Assinatura";
 
 $lang["role"] = "Função";
 $lang["roles"] = "Funções";
-$lang["add_role"] = "Add função";
+$lang["add_role"] = "Adicionar função";
 $lang["edit_role"] = "Editar função";
 $lang["delete_role"] = "Deletar função";
 $lang["use_seetings_from"] = "Usar configurações de";
@@ -587,7 +587,7 @@ $lang["new_posts"] = "Novos posts";
 
 /* taxes */
 
-$lang["add_tax"] = "Add Imposto";
+$lang["add_tax"] = "Adicionar Imposto";
 $lang["tax"] = "Imposto";
 $lang["taxes"] = "Impostos";
 $lang["edit_tax"] = "Editar imposto";
@@ -704,7 +704,7 @@ $lang["notification_project_task_finished"] = "finalizou uma tarefa";
 $lang["notification_project_task_reopened"] = "recomeçou uma tarefa";
 $lang["notification_project_task_deleted"] = "excluiu uma tarefa";
 $lang["notification_project_task_commented"] = "comentou uma tarefa";
-$lang["notification_project_member_added"] = "adicionou %s a um projeto"; //Add Mr. X a um projeto.
+$lang["notification_project_member_added"] = "adicionou %s a um projeto"; //Adicionou Mr. X a um projeto.
 $lang["notification_project_member_deleted"] = "excluiu %s de um projeto"; //Excluído Mr. X de um projeto.
 $lang["notification_project_file_added"] = "adicionou um arquivo ao projeto";
 $lang["notification_project_file_deleted"] = "excluiu um arquivo do projeto";
@@ -763,7 +763,7 @@ $lang["estimate_list"] = "Lista de Orçamentos";
 $lang["estimate_forms"] = "Formulários de Orçamento";
 $lang["estimate_request_forms"] = "Formulários de Solicitação de Orçamento";
 
-$lang["add_form"] = "Add formulário";
+$lang["add_form"] = "Adicionar formulário";
 $lang["edit_form"] = "Editar formulário";
 $lang["delete_form"] = "Excluir formulário";
 
@@ -786,7 +786,7 @@ $lang["hold"] = "Aguarde";
 $lang["processing"] = "Processando";
 $lang["estimated"] = "Aproximado";
 
-$lang["add_estimate"] = "Add Orçamento";
+$lang["add_estimate"] = "Adicionar Orçamento";
 $lang["edit_estimate"] = "Editar Orçamento";
 $lang["delete_estimate"] = "Excluir Orçamento";
 $lang["valid_until"] = "Válido até";
@@ -1029,19 +1029,19 @@ $lang["new_event_added_in_calendar"] = "Novo evento adicionado ao calendário";
 $lang["notification_new_event_added_in_calendar"] = "Adicionou um novo evento.";
 
 $lang["todo"] = "Lista de tarefas";
-$lang["add_a_todo"] = "Add uma tarefa...";
+$lang["add_a_todo"] = "Adicionar uma tarefa...";
 
 /* Version 1.9 */
 
 $lang["client_groups"] = "Grupos de Clientes";
-$lang["add_client_group"] = "Add grupo de clientes";
+$lang["add_client_group"] = "Adicionar grupo de clientes";
 $lang["edit_client_group"] = "Editar grupo de clientes";
 $lang["delete_client_group"] = "Excluir grupo de clientes";
 
 $lang["ticket_prefix"] = "Prefixo do chamado";
-$lang["add_a_task"] = "Add uma tarefa...";
+$lang["add_a_task"] = "Adicionar uma tarefa...";
 
-$lang["add_task_status"] = "Add status da tarefa";
+$lang["add_task_status"] = "Adicionar status da tarefa";
 $lang["edit_task_status"] = "Editar o status da tarefa";
 $lang["delete_task_status"] = "Excluir o status da tarefa";
 
@@ -1121,8 +1121,8 @@ $lang["invitations_sent"] = "The invitations has been sent.";
 
 /* Version 2.1 */
 
-$lang["add_new_dashboard"] = "Add new dashboard";
-$lang["add_row"] = "Add row";
+$lang["add_new_dashboard"] = "Adicionar um novo dashboard";
+$lang["add_row"] = "Adicionar linha";
 
 $lang["available_widgets"] = "Available Widgets";
 $lang["your_selected_widgets_will_be_appear_here"] = "Your selected widgets will be appear here";
